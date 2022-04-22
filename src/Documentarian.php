@@ -1,6 +1,6 @@
 <?php
 
-namespace Mpociot\Documentarian;
+namespace Codise\Documentarian;
 
 use Illuminate\Support\Arr;
 use Mni\FrontYAML\Parser;
@@ -8,7 +8,7 @@ use Windwalker\Renderer\BladeRenderer;
 
 /**
  * Class Documentarian
- * @package Mpociot\Documentarian
+ * @package Codise\Documentarian
  */
 class Documentarian
 {

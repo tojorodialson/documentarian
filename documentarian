@@ -10,7 +10,7 @@ if (file_exists(__DIR__ . '/vendor/autoload.php')) {
     require __DIR__ . '/../../autoload.php';
 }
 
-use Mpociot\Documentarian\Documentarian;
+use Codise\Documentarian\Documentarian;
 use Silly\Application;
 
 $documentarian = new Documentarian();
