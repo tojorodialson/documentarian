@@ -2,7 +2,6 @@
   "name": "codise/documentarian",
   "description": "",
   "keywords": [],
-  "license": "Apache 2",
   "autoload": {
     "files": [
       "includes/helpers.php"
