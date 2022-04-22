@@ -1,5 +1,6 @@
 {
   "name": "codise/documentarian",
+  "license": "MIT",
   "description": "",
   "keywords": [],
   "autoload": {
